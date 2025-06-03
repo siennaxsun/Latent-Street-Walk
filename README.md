@@ -1,5 +1,5 @@
 # Latent-Street-Walk
-deep learning (VAE) implementation to generate street layouts to guide future urban planning
+**Deep learning (VAE) implementation to generate street layouts to guide future urban planning**
 
 
 This project explores how deep learning—specifically Variational Autoencoders (VAE)—can learn from historical street networks to generate new urban layouts. Using a dataset of 592 road network images from 65 European cities, the model aims to capture latent urban design patterns and inspire future planning of undeveloped areas.
